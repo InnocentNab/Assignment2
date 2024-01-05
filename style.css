@@ -300,8 +300,6 @@ label {
     display: flex;
     flex-direction: column;
     gap: 15px;
-    /* padding-inline-start: 20px; */
-    /* align-items: center; */
 }
 
 
